@@ -10,6 +10,6 @@
     ],
     "autoload": {
     "psr-0": {
-        "yiidreamteam/ahrefs": "./lib/",
+        "yiidreamteam\\ahrefs\\": "./lib"
     }
 }
