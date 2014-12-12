@@ -9,7 +9,8 @@
         }
     ],
     "autoload": {
-    "psr-0": {
-        "yiidreamteam\\ahrefs\\": "./lib"
-    }
+	    "psr-0": {
+	        "yiidreamteam\\ahrefs\\": "./lib"
+	    }
+	}
 }
