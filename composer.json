@@ -1,0 +1,11 @@
+{
+    "name": "yii-dream-team/ahrefs-api-php",
+    "description": "Ahrefs.com api repository fork with composer.json file",
+	"homepage": "https://github.com/yii-dream-team/ahrefs-api-php",
+    "authors": [
+        {
+            "name": "Valentin Konusov",
+            "email": "rlng-krsk@yandex.ru"
+        }
+    ]
+}
