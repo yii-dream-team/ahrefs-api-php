@@ -9,8 +9,9 @@
     }
     ],
     "autoload": {
-        "psr-4": {
-            "": "./lib"
-        }
+        "classmap": [
+            "./lib/AhrefsAPI.php",
+            "./lib/ArrayRules.php"
+        ]
     }
 }
