@@ -1,5 +1,6 @@
 {
     "name": "yii-dream-team/ahrefs-api-php",
+    "version": "1.0.0",
     "description": "Ahrefs.com api repository fork with composer.json file",
     "homepage": "https://github.com/yii-dream-team/ahrefs-api-php",
     "authors": [
