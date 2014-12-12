@@ -1,16 +1,16 @@
 {
     "name": "yii-dream-team/ahrefs-api-php",
     "description": "Ahrefs.com api repository fork with composer.json file",
-	"homepage": "https://github.com/yii-dream-team/ahrefs-api-php",
+    "homepage": "https://github.com/yii-dream-team/ahrefs-api-php",
     "authors": [
-        {
-            "name": "Valentin Konusov",
-            "email": "rlng-krsk@yandex.ru"
-        }
+    {
+        "name": "Valentin Konusov",
+        "email": "rlng-krsk@yandex.ru"
+    }
     ],
     "autoload": {
-	    "psr-0": {
-	        "yiidreamteam\\ahrefs\\": "./lib"
-	    }
-	}
+        "psr-4": {
+            "": "./lib"
+        }
+    }
 }
